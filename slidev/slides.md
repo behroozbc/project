@@ -112,7 +112,7 @@ img{
 - Limitation in data due to only analyzing the first 30 seconds.
 - Challenges with differentiation due to discontinuities.
 
-</c-clicks>
+</v-clicks>
 ---
 layout: center
 ---
