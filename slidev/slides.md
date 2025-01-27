@@ -11,7 +11,7 @@ presenter: 'Mozhgan & Behrooz'
 ### Presenter: Mozhgan & Behrooz
 ---
 
-# Agenda
+# Table of contents
 <toc></toc>
 
 ---
