@@ -77,12 +77,8 @@ layout: center
 
 # Example from FMP Notebook
 
-![Piano Roll](path/to/piano-roll.png)
+![Piano Roll](./imgs/piano-role.jpg)
 
-![Performance Comparison](path/to/comparison-chart.png)
-
-- Explanation of using the piano roll from the FMP notebook.
-- Insights on how the second derivative shows pedal use, adding spirit to the performance.
 
 ---
 
