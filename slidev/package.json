@@ -1,7 +1,7 @@
 {
   "name": "slidev",
   "type": "module",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "slidev build --base /project/",
     "dev": "slidev --open",
