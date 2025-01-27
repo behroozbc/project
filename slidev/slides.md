@@ -158,4 +158,4 @@ img{
 layout: center
 ---
 
-# Thank you note
+# Thank you for your attention
