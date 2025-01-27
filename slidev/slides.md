@@ -84,7 +84,7 @@ layout: center
 
 # Observations from Chart
 
-![Detailed Chart](path/to/detailed-chart.png)
+![Detailed Chart](./imgs/chart-human-vs-roll.png)
 
 - Points about rapid valleys leading to speed increases.
 - Consistency in local valleys.
