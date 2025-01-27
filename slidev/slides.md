@@ -1,4 +1,5 @@
 ---
+theme: academic
 layout: cover
 title: 'Dynamic Time Warping and Tempo Analysis in Music'
 subtitle: 'Understanding Musical Sequences'
@@ -18,9 +19,9 @@ presenter: 'Mozhgan & Behrooz'
 
 <v-clicks>
 
-- Objective: we try to find a meaning of the 2nd derivative of tempo curve. 
+- **Objective**: we try to find a meaning of the 2nd derivative of tempo curve. 
 
-- why: The idea came from physics. The 2nd derivative of location chart (x) is the acceleration. so we can apply the same.  
+- **Why**: The idea came from physics. The 2nd derivative of location chart (x) is the acceleration. so we can apply the same.  
 </v-clicks>
 
 
@@ -73,22 +74,32 @@ layout: center
 
 ![2nd Derivative](./imgs/output.png)
 
----
 
+---
+layout: center
+---
 # Example from FMP Notebook
 
 ![Piano Roll](./imgs/piano-role.jpg)
-
 
 ---
 
 # Observations from Chart
 
-![Detailed Chart](./imgs/chart-human-vs-roll.png)
-
 - Points about rapid valleys leading to speed increases.
 - Consistency in local valleys.
+---
+layout: center
+---
 
+<style>
+img{
+        background: #fff;
+        width:500px;
+        height: 500px;
+    }
+</style>
+![Detailed Chart](./imgs/chart-human-vs-roll.png)
 ---
 
 # Challenges with Performers Comparison
@@ -97,6 +108,18 @@ layout: center
 - Limitation in data due to only analyzing the first 30 seconds.
 - Challenges with differentiation due to discontinuities.
 
+---
+layout: center
+---
+
+<style>
+img{
+        background: #fff;
+        width:500px;
+        height: 500px;
+    }
+</style>
+![Detailed Chart](./imgs/human-vs-human.png)
 ---
 
 # Limitations
@@ -112,15 +135,12 @@ layout: center
 - Further comparisons between piano roll and performers.
 - Exploration of datasets with more continuous tempo curves.
 
----
 
-# Conclusion
 
-- Recap of findings
-- Thank you note
 
 ---
 
 # Q&A
 
+- Thank you note
 Open for questions from the audience.
