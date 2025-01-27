@@ -26,38 +26,37 @@ presenter: 'Mozhgan & Behrooz'
 
 
 ---
-layout: center
+layout: two-cols
 ---
 
-# Dynamic Warping Path and Tempo
+# Dynamic Warping Path 
 
 <style>
     img{
         background: #fff;
         width:300px;
-        display: inline;
         height: 300px;
         margin:10px;
-    }
-    p{
-        display:inline;
     }
     </style>
 
 
 ![DTW Path](./imgs/dtw.png)
 
+::right::
+# Tempo
 ![Tempo Graph](./imgs/tempo.png)
 
 
 
+---
+layout: two-cols
 ---
 
 <style>
     img{
         background: #fff;
         width:300px;
-        display: inline;
         height: 300px;
         margin:10px;
     }
@@ -66,19 +65,28 @@ layout: center
     }
     </style>
 
-# First Derivative of Tempo
+# 1st Derivative of Tempo
 
 
 ![First Derivative](./imgs/first-derivative-graph.png)
-
+::right::
+# 2nd Derivative
 ![2nd Derivative](./imgs/output.png)
 
 
----
-layout: center
+
+
 ---
 
 # Example from FMP Notebook
+
+<style>
+img{
+        background: #fff;
+        width:4500px;
+        height: 450px;
+    }
+</style>
 
 ![Piano Roll](./imgs/piano-role.jpg)
 
@@ -126,18 +134,22 @@ img{
 ---
 
 # Limitations
+<v-clicks>
 
 - Time constraints
 - Conversion issues from Music XML to CSV
 - Lack of comprehensive musical information
 
+</v-clicks>
 ---
 
 # Future Work
 
+<v-clicks>
+
 - Further comparisons between piano roll and performers.
 - Exploration of datasets with more continuous tempo curves.
-
+</v-clicks>
 
 
 
