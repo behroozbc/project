@@ -52,8 +52,6 @@ layout: center
 
 
 ---
-layout: center
----
 
 <style>
     img{
