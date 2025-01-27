@@ -28,6 +28,7 @@ presenter: 'Mozhgan & Behrooz'
 ---
 layout: center
 ---
+
 # Dynamic Warping Path and Tempo
 
 <style>
@@ -78,6 +79,7 @@ layout: center
 ---
 layout: center
 ---
+
 # Example from FMP Notebook
 
 ![Piano Roll](./imgs/piano-role.jpg)
@@ -104,10 +106,13 @@ img{
 
 # Challenges with Performers Comparison
 
+<v-clicks>
+
 - Issues with fluctuating tempo curves.
 - Limitation in data due to only analyzing the first 30 seconds.
 - Challenges with differentiation due to discontinuities.
 
+</c-clicks>
 ---
 layout: center
 ---
