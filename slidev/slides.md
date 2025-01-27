@@ -6,7 +6,7 @@ subtitle: 'Understanding Musical Sequences'
 presenter: 'Mozhgan & Behrooz'
 ---
 
-# What is the possible meaning of 2nd Derivative.
+# What is the possible meaning of 2nd Derivative?
 ## Understanding Musical Sequences
 ### Presenter: Mozhgan & Behrooz
 ---
@@ -22,7 +22,7 @@ presenter: 'Mozhgan & Behrooz'
 
 - **Objective**: we try to find a meaning of the 2nd derivative of tempo curve. 
 
-- **Why**: The idea came from physics. The 2nd derivative of location chart (x) is the acceleration. so we can apply the same.  
+- **Why**: The 2nd derivative of location chart (x) is the acceleration. so we can apply the same.  
 </v-clicks>
 
 
@@ -137,9 +137,9 @@ img{
 # Limitations
 <v-clicks>
 
-- Time constraints
-- Conversion issues from Music XML to CSV
-- Lack of comprehensive musical information
+- Time constraints.
+- Conversion issues from Music XML to CSV.
+- Lack of background in music.
 
 </v-clicks>
 ---
@@ -155,8 +155,7 @@ img{
 
 
 ---
+layout: center
+---
 
-# Q&A
-
-- Thank you note
-Open for questions from the audience.
+# Thank you note
